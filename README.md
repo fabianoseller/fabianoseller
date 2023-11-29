@@ -1,7 +1,7 @@
 ### Hello! Welcome to my Github profile.👋
 ## My name is Fabiano Antunes and my nickname is "fabianoseller"!
 
-<!--
+
 **fabianoseller/fabianoseller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
--->
+
