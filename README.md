@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/fabianoseller">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoseller&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?fabianoseller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabianoseller)](https://github.com/fabianoseller/github-readme-stats)
 
-[![snake animation](https://github.com/<fabianoseller>/<fabianoseller>/blob/output/github-contribution-grid-snake2.svg)
+
+
 
