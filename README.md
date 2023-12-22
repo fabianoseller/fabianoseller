@@ -1,7 +1,8 @@
 ### Hello! Welcome to my Github profile.👋
 ## My name is Fabiano Antunes and my nickname is "fabianoseller"!
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoseller&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://github.com/arindal1">
+    <img src="https://github.com/arindal1/arindal1/assets/110285827/b162e876-2100-42dd-8c5c-75321e2b39b3" alt="github" width="40px">
+</a>
 
 
 **fabianoseller/fabianoseller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
