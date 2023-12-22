@@ -5,6 +5,7 @@
 </a>
 
 
+
 **fabianoseller/fabianoseller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/fabianoseller">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoseller&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg">
 
 
 
